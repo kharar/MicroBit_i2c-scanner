@@ -1,6 +1,5 @@
 {
     "name": "I2C scanner",
-    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -11,8 +10,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "main.py",
-        "custom.ts"
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
